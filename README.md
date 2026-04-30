@@ -1,6 +1,7 @@
 # Prova Leonardo - Cadastro de Produtos
 
 Aplicativo Android desenvolvido para a Avaliação do 1º Bimestre - UniCesumar.
+Aluno: Matheus Henrique Pereira Gangini
 
 ## Funcionalidades
 - Cadastro de produtos com nome, código, preço e quantidade
